@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Firebase bin Places</string>
+    <string name="title_activity_maps">Firebase ibn Place</string>
+    <string name="check_out">Check Out</string>
+</resources>
